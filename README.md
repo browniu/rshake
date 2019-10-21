@@ -4,7 +4,7 @@
 
 [![NPM](https://img.shields.io/npm/v/browniu-app.svg)](https://www.npmjs.com/package/rshake) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-## [Demo]()
+## [Demo](https://browniu.github.io/rshake/)
 ![demo](./static/rshake.gif)
 
 ## Install
@@ -25,7 +25,7 @@ class Example extends Component {
     return (
       <div>
         <Rshake type='little' rate='200' >
-            <i>xixi</i>
+            <span>xixi</span>
         </Rshake>
       </div>
     )
