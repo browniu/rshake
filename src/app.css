@@ -1,0 +1,13 @@
+.app {
+  position: absolute;
+  display: inline-block;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) scale(1.2);
+}
+
+.demo {
+  background: #2ab8ac;
+  padding: 10px 15px;
+  color: #fff;
+}
